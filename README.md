@@ -4,6 +4,7 @@ Retreve data from Omnik inverter and send to Domoticz
 This script retreves values from the Omnik inverter website and send them to Domoticz
 
 Usage:
+
 1 - Copy the getPVData.py file to the scripts directory of Domoticz
 
 2 - Correct the following values in getPVData.py:
