@@ -1,9 +1,9 @@
 # getPVData
-Retreve data from Omnik inverter and send to Domoticz
+Retrieve data from Omnik inverter and send to Domoticz
 
-This script retreves values from the Omnik inverter website and send them to Domoticz. 
+This script retrieves values from the Omnik inverter website and send them to Domoticz. 
 
-It is tested on Omnik3000tl with firmware V4.08Build215 (main) / V4.12Build246 (slave)
+It is tested on Omnik3000tl with firmware V4.08Build215 (main) / V4.12Build246 (slave) with lan interface
 
 
 
