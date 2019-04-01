@@ -1,11 +1,15 @@
 # getPVData
 Retreve data from Omnik inverter and send to Domoticz
 
-This script retreves values from the Omnik inverter website and send them to Domoticz
+This script retreves values from the Omnik inverter website and send them to Domoticz. 
+
+It is tested on Omnik3000tl with firmware V4.08Build215 (main) / V4.12Build246 (slave)
+
+
 
 Usage:
 
-1 - In Domoticz, create virtual sensor of type "Usage (Electric)". Take note of the id of the device.
+1 - In Domoticz, create virtual sensor of type "Usage (Electric)"
 
 2 - Copy the getPVData.py file to the scripts directory of Domoticz
 
